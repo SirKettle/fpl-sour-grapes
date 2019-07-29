@@ -1,13 +1,4 @@
-# Play
-
-http://play.willthirkettle.co.uk
-
-### Games, experiments, fun side projects - well that’s the plan...
-
-I like to work on the occasional side project. This helps me to fine tune my skills and learn new tech. The goal is to use this site, as a central place, to host and showcase them.
-
-
----
+# FPL Sour Grapes
 
 ## Tech
 
